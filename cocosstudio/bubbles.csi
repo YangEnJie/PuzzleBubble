@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="bubbles" ID="f5be5019-6358-4e1f-bb33-7ddbcc2e9613" Version="2.1.5.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="bubble_1.png" />
+      <FilePathData Path="bubble_2.png" />
+      <FilePathData Path="bubble_3.png" />
+      <FilePathData Path="bubble_4.png" />
+      <FilePathData Path="bubble_5.png" />
+      <FilePathData Path="bubble_6.png" />
+      <FilePathData Path="bubble_7.png" />
+      <FilePathData Path="line.png" />
+      <FilePathData Path="caihong1.png" />
+      <FilePathData Path="zhadan1.png" />
+    </ImageFiles>
+    <MaxSize Width="128" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

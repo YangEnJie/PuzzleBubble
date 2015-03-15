@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>bubble_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,63},{54,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{54,55}</string>
+			</dict>
+			<key>bubble_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{58,118},{54,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{54,55}</string>
+			</dict>
+			<key>bubble_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,119},{54,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{54,55}</string>
+			</dict>
+			<key>bubble_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{58,174},{54,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{54,55}</string>
+			</dict>
+			<key>bubble_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,175},{54,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{54,55}</string>
+			</dict>
+			<key>bubble_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{58,230},{54,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{54,55}</string>
+			</dict>
+			<key>bubble_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,231},{52,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{52,52}</string>
+			</dict>
+			<key>line.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{115,118},{10,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+			<key>caihong1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{63,60},{56,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,56}</string>
+			</dict>
+			<key>zhadan1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{63,1},{58,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,57}</string>
+			</dict>
+			<key>Particle/particle_star.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{60,60}}</string>
+				<key>offset</key>
+				<string>{2,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{64,64}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>bubbles.png</string>
+			<key>realTextureFileName</key>
+			<string>bubbles.png</string>
+			<key>size</key>
+			<string>{126,285}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>126</integer>
+			<key>height</key>
+			<integer>285</integer>
+		</dict>
+	</dict>
+</plist>
